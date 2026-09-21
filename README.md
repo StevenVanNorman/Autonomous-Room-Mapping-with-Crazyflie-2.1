@@ -1,1 +1,1 @@
-[View Technical Report PDF](./Autonomous%20Room%20Mapping%20with%20Crazyflie%202.pdf)
+[View Technical Report PDF](./Technical%20Report%20of%20Crazyflie%202.1.pdf)
